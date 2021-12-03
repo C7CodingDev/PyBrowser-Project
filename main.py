@@ -1,5 +1,5 @@
 from tkinter import messagebox,colorchooser
-import turtle
+import turtle,os,time
 screen = turtle.Screen()
 ####SETTINGS####
 MANAGED = False #if the browser is managed
