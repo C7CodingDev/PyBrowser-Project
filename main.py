@@ -1,4 +1,4 @@
-from tkinter import messagebox
+from tkinter import messagebox,colorchooser
 import turtle
 screen = turtle.Screen()
 ####SETTINGS####
